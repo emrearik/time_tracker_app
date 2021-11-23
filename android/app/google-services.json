@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "640386697211",
+    "project_id": "codewithandreatest",
+    "storage_bucket": "codewithandreatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640386697211:android:45ec157307da80b0216d5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_signin_signout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640386697211-tkvqskkjrfcstsfnq837hskpo024n4fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4WGg-Kj86fUG9jcw0A44FK-qGXLnpNhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640386697211-tkvqskkjrfcstsfnq837hskpo024n4fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640386697211:android:90f8624f42de817c216d5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_time_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640386697211-tkvqskkjrfcstsfnq837hskpo024n4fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4WGg-Kj86fUG9jcw0A44FK-qGXLnpNhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640386697211-tkvqskkjrfcstsfnq837hskpo024n4fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
